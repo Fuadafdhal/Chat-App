@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303685219468",
+    "firebase_url": "https://chat-app-7d84e.firebaseio.com",
+    "project_id": "chat-app-7d84e",
+    "storage_bucket": "chat-app-7d84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303685219468:android:eb94e84e455711af11b7a9",
+        "android_client_info": {
+          "package_name": "com.afdhal_fa.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303685219468-9kppoag7h0m9fb7v5ckm58lck76e09s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxWoh_LwDjJRkFh1hbZt58Ufrg_GTTTI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303685219468-9kppoag7h0m9fb7v5ckm58lck76e09s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
